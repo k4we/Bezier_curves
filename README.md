@@ -10,7 +10,7 @@ The functions are limited but you can :
 
 ## Requirements
 You need to have tkinter installed, if not type this in your terminal :
-```python3 -m pip install tkinter```
+```sudo apt-get install python-tk```
 
 ## Screenshot
 ![alt text](https://github.com/k4we/Bezier_curves/blob/main/assets/images/screenshot.png?raw=true)
